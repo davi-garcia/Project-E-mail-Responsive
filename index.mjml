@@ -1,17 +1,15 @@
 <mjml>
   <mj-body>
-  <mj-include path="./header.mjml" />
-    <mj-hero mode="fluid-height" background-width="600px" background-height="469px" background-url="https://www.centrofotocopa.com.br/wp-content/uploads/2024/01/revelacao.jpg" background-color="#2a3448" padding="100px 0px">
-
-    <mj-section background-color="rgba(0, 0, 0, 0.5)">
-      <mj-column width="300">
-        <mj-image src="https://www.centrofotocopa.com.br/wp-content/uploads/2024/02/Novo-Projeto2-e1709260967655.png" ></mj-image>
-        </mj-column>
-    </mj-section>
-
-      <mj-button href="https://www.centrofotocopa.com.br/" align="center">
-        Acesse Já
-      </mj-button>
-    </mj-hero>
+        <mj-include path="./header.mjml" />
+        <mj-hero mode="fluid-height" background-width="600px"           background-height="469px" background-url="https://www.centrofotocopa.com.br/wp-content/uploads/2024/01/revelacao.jpg" background-color="#2a3448" padding="100px 0px">
+            <mj-section background-color="rgba(0, 0, 0, 0.5)">
+                <mj-column width="300">
+                    <mj-image src="https://www.centrofotocopa.com.br/wp-content/uploads/2024/02/Novo-Projeto2-e1709260967655.png" ></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-button href="https://www.centrofotocopa.com.br/" align="center">
+             Acesse Já
+            </mj-button>
+        </mj-hero>
   </mj-body>
 </mjml>
