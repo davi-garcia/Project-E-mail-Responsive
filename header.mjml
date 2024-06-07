@@ -1,0 +1,15 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.centrofotocopa.com.br" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/cameras" color="#ffffff">Câmeras</mj-navbar-link>
+          <mj-navbar-link href="/filmes" color="#ffffff">Filmes</mj-navbar-link>
+          <mj-navbar-link href="/equipamentos" color="#ffffff">Equipamentos</mj-navbar-link>
+          <mj-navbar-link href="/contatos" color="#ffffff">Contatos</mj-navbar-link>
+          <mj-navbar-link href="/parceiros" color="#ffffff">Parceiros</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,11 +1,16 @@
 <mjml>
   <mj-body>
-    <mj-hero mode="fluid-height" background-width="600px" background-height="469px" background-url="https://cloud.githubusercontent.com/assets/1830348/15354890/1442159a-1cf0-11e6-92b1-b861dadf1750.jpg" background-color="#2a3448" padding="100px 0px">
-      <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="45px" line-height="45px" font-weight="900">
-        GO TO SPACE
-      </mj-text>
-      <mj-button href="https://mjml.io/" align="center">
-        ORDER YOUR TICKET NOW
+  <mj-include path="./header.mjml" />
+    <mj-hero mode="fluid-height" background-width="600px" background-height="469px" background-url="https://www.centrofotocopa.com.br/wp-content/uploads/2024/01/revelacao.jpg" background-color="#2a3448" padding="100px 0px">
+
+    <mj-section background-color="rgba(0, 0, 0, 0.5)">
+      <mj-column width="300">
+        <mj-image src="https://www.centrofotocopa.com.br/wp-content/uploads/2024/02/Novo-Projeto2-e1709260967655.png" ></mj-image>
+        </mj-column>
+    </mj-section>
+
+      <mj-button href="https://www.centrofotocopa.com.br/" align="center">
+        Acesse Já
       </mj-button>
     </mj-hero>
   </mj-body>
